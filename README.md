@@ -20,4 +20,6 @@ Yenten GUI miner
 
 Use bellflower2015/cpuminer-opt where yespower algo: Download alternate download_miner and run before mining - https://raw.githubusercontent.com/bubasik/yenten-gui-miner/master/download_miner_bellflower.bat
 
+``Extra options: -a yespowerr16``
+
 *thank - bellflower2015*
