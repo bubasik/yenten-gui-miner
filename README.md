@@ -14,4 +14,4 @@ Yenten GUI miner
 
 *This miner was created for beginners.*
 
-https://media.discordapp.net/attachments/376441746818596876/532879400602173450/unknown.png
+![screen](https://github.com/bubasik/yenten-gui-miner/blob/master/gui_miner_screen.png)
