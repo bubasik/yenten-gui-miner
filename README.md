@@ -1,7 +1,7 @@
 # yenten-gui-miner
 Yenten GUI miner
 
-**Download** - https://cdn.discordapp.com/attachments/376441746818596876/532878922585604117/yenten_gui_miner_02.zip
+**Download** - https://github.com/bubasik/yenten-gui-miner/releases/download/1.0/yenten_gui_miner_02.zip
 
 **Guide:**
 1) Download Yenten GUI miner
