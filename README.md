@@ -17,5 +17,7 @@ Yenten GUI miner
 ![screen](https://github.com/bubasik/yenten-gui-miner/blob/master/gui_miner_screen.png)
 
 **Addons:**
+
 Use bellflower2015/cpuminer-opt where yespower algo: Download alternate download_miner and run before mining - https://raw.githubusercontent.com/bubasik/yenten-gui-miner/master/download_miner_bellflower.bat
+
 *thank - bellflower2015*
