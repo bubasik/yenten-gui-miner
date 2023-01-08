@@ -1,4 +1,4 @@
-# yenten-gui-miner
+# Yenten CPU Miner GUI
 Yenten GUI miner
 
 **Download latest version** - https://github.com/bubasik/yenten-gui-miner/releases
@@ -23,3 +23,28 @@ Use bellflower2015/cpuminer-opt where yespower algo: Download alternate download
 ``Extra options: -a yespowerr16``
 
 *thank - bellflower2015*
+
+# Branding for other coin
+
+Added config file - for add other coins and new pools. 
+
+***Yenten_gui_miner.exe.config***
+
+```xml
+            <setting name="coins" serializeAs="Xml">
+                <value>
+                    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                        xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+                        <string>YTN cpu-pool.com|ytn|stratum+tcp://cpu-pool.com:63368|yespowerr16</string>
+                        <string>YTN yenten-pool.info|ytn|stratum+tcp://yenten-pool.info:6234|yespowerr16</string>
+                        <string>YTN pool.rplant.xyz|ytn|stratum+tcp://stratum-eu.rplant.xyz:3382|yespowerr16</string>
+                        <string>SUGAR pool.rplant.xyz|sugar|stratum+tcp://stratum-eu.rplant.xyz:7042|yespowersugar</string>
+                    </ArrayOfString>
+                </value>
+            </setting>
+            <setting name="brandcoin" serializeAs="String">
+                <value>YTN</value>
+            </setting>
+```
+Now everyone can make changes, the data is separated by |. Send us your developments in discord, we will definitely add new coins and new pools. Also, our gui miner supports all versions of cpuminer, just put it in the folder with the program and name the file - cpuminer.exe
+
