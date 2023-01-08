@@ -26,6 +26,9 @@ Use bellflower2015/cpuminer-opt where yespower algo: Download alternate download
 
 # Branding for other coin
 
+**Sample:**
+GUI miner 1.5 for Sugarchain - https://github.com/bubasik/yenten-gui-miner/releases/download/1.5/sugarchain_gui_miner_05.zip
+
 Added config file - for add other coins and new pools. 
 
 ***Yenten_gui_miner.exe.config***
