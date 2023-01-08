@@ -1,7 +1,7 @@
 # yenten-gui-miner
 Yenten GUI miner
 
-**Download** - https://github.com/bubasik/yenten-gui-miner/releases/download/1.1/yenten_gui_miner_03.zip
+**Download latest version** - https://github.com/bubasik/yenten-gui-miner/releases
 
 **Guide:**
 1) Download Yenten GUI miner
@@ -14,7 +14,7 @@ Yenten GUI miner
 
 *This miner was created for beginners.*
 
-![screen](https://github.com/bubasik/yenten-gui-miner/blob/master/gui_miner_screen.png)
+![screen](https://user-images.githubusercontent.com/35274014/211207814-26cd4100-f6d0-451a-8fcf-171a71b95a32.png)
 
 **Addons:**
 
