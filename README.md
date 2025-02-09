@@ -2,9 +2,13 @@
 Yenten GUI miner
 
 GET NEW VERSION - https://github.com/yentencoin/easy-cpu-miner-gui
+
 GET NEW VERSION - https://github.com/yentencoin/easy-cpu-miner-gui
+
 GET NEW VERSION - https://github.com/yentencoin/easy-cpu-miner-gui
+
 GET NEW VERSION - https://github.com/yentencoin/easy-cpu-miner-gui
+
 GET NEW VERSION - https://github.com/yentencoin/easy-cpu-miner-gui
 
 **Download latest version** - https://github.com/bubasik/yenten-gui-miner/releases
